@@ -1,0 +1,25 @@
+{
+  "name": "axar-sde",
+  "version": "0.0.0",
+  "description": "Access to EVE Online Static Data Export (SDE) through Sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "make",
+    "clean": "make clean"
+  },
+  "keywords": [
+    "eve",
+    "eve-online",
+    "data-science",
+    "gaming",
+    "mmo",
+    "data",
+    "sqlite"
+  ],
+  "author": "Axar Tiberius",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
