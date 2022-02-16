@@ -1,6 +1,6 @@
 {
   "name": "axar-sde",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Access to EVE Online Static Data Export (SDE) through Sqlite",
   "main": "index.js",
   "scripts": {
